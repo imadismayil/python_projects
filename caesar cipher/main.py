@@ -14,7 +14,7 @@ def caesar(original_text,shift_amount,method):
             output_text += ch
     print(f"the {method}d message is {output_text}.")
 
-control = "True"
+control = True
 while control:
     direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
     text = input("Type your message:\n").lower()
