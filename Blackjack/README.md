@@ -30,9 +30,7 @@ A simple terminal-based Blackjack game built using Python. This project simulate
 
 ### Run the Game
 
-Clone this repository and run:
-
-```bash
+Clone this repository and run
 python blackjack.py
 Make sure art.py is in the same directory or adjust the import accordingly.
 
