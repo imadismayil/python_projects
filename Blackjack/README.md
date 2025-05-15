@@ -34,13 +34,13 @@ Clone this repository and run
 python blackjack.py
 Make sure art.py is in the same directory or adjust the import accordingly.
 
-📁 Project Structure
+###📁 Project Structure
 python_projects/
 └── blackjack/
     ├── blackjack.py
     ├── art.py
     └── README.md
-📸 Sample Output
+###📸 Sample Output
 
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
