@@ -108,5 +108,5 @@ Money: ₹2.5
 
 ## 👨‍💻 Author
 
-Developed by [Your Name].  
+Developed by [Imad Ismayil].  
 For educational or demo use.
